@@ -9,7 +9,6 @@
 
 * __When was the company incorporated?__
 
-    
     The company was founded on May 6th, 2013.
 
 * __Who are the founders of the company?__
@@ -31,6 +30,8 @@
     
     Nubank is currently attacking multiple problems simultaneously. These problems include: offering higher credit limits for low income clients, reducing the tariffs involved with the use of credit cards, and providing completely digital services available anywhere. The problems that Nubank is currently tackling and trying to solve makes this company and their products attractive to the low and medium income classes of South America, specifically Brazil.
 
+    Nubank calls what their company does everyday the purple revolution. The purpose of the purple revolution is: fighting complexity in the financial sector, giving people access to the system, and empowering them to control their financial lives. 
+
 * __Who is the company's intended customer?  Is there any information about the market size of this set of customers?__
 
     Since Nubank is fully digital, intended customers need to have access and be able to utilize a smartphone. They also need to be willing to accept the idea of a digital bank versus a traditional physical bank. Nubank raises brand awareness alsmot completely via social media marketing, this narrows down the target consumer niche. 
@@ -51,16 +52,75 @@
 
 * __What domain of the financial industry is the company in?__
 
+    Nubank resides in the digital banking/personal finance domain of Fintech. 
+
 * __What have been the major trends and innovations of this domain over the last 5–10 years?__
+
+    Mobile apps connecting users to their banks. Electronic payments, etc
 
 * __What are the other major companies in this domain?__
 
+    Other major companies in this domain include Cash App, Stripe, SoFi, Chime, Circle, Adyen, Coinbase, and Alicia Bank.
 
 ## Results
 
 * __What has been the business impact of this company so far?__
 
+    Since Nubank's creation in 2013, they have expanded their impact with new products and solutions for: spending, saving, investing, borrowing, and protecting. Nubank started with Nu Brazil and their first credit card in 2014, by 2017 Nubank reached over 3 million customers and expanded their offered products by adding products like digital bank accounts, personal loans, prepaid cards, and digital corporate bank accounts. 
+    In 2020, Nubank expanded leading to Nu Mexico and Nu Colombia, this expansion grew the amount of customers served to over 30 million. Along with the cross-continent expansion, they also added new services: PIX, insurance, and app donations. 
+    In 2021, Nubank had it's IPO NYSE and B3 Easynvest. They added features including: Ultravioleta, FX Remittances, Life insurance, Coporate credit card, whatsapp pay, google pay, apple pay, and NuSócios (a directed share program). By the end of 2021, Nubank had grown to over 54 million customers.
+    In 2022, Nubank has reached over 74 million customers. They have expanded products to include: Open Finance, Modo Rua(street mode), Nu Pay, Nubank Crypto, Money Boxes, NuTap, mobile insurance, marketplace, samsung pay, and Nunos.
+
+    As of 2022, Nubank is the 5th largest financial institution in Latin America and Brazil. Nubank and it's founders were featured in Time 100 twice, one entry was on the list of "The most influential companies", and the other named one of the co-founders, David Vélez, "one of the most influential people in the world". Reclame aqui awarded Nubank for "Best customer service for the sixth year in a row". The were recognized by Palma de Cera for "Impact investing for Nu Colombia".
+
+    Nubanks values (from 2022 ESG): We are hungry and challenge the status quo; We want our customers to love us fanatically; We think and act like owners, not renters; We build strong and diverse teams; We pursue smart efficiency.
+
+    in 2022, Nubank's customers saved over $8 billion in fees. Customers have also been able to save time, with Nubanks services, customers have saved 248 million hours in time wasted waiting in lines and/or over the phone. Nubank uses a "low and grow" strategy consisting of low credit limits that will increase over time as the customer gradually increases their personal creditworthiness. This "low and grow" model has allowed Nubank to better understand customer behavior, financial needs, risks, which enables Nubank to accurately develop credit strategies to be able to provide them with the product that fits their personal financial situation. Nubank has:
+    • bancarized over 21.6 million customers since inception
+    • offered 2.5 million customers their first personal loan in the 12 month period ending in july 2022
+    •at the end of 2022 nubank reached 2.5 million small business owners and simplified savings for more than 4 million customers through their product Monay Boxes. (Money boxes is a product that allows customers to save money in an organized way to help achieve their dreams and build their future). 
+    • Nubank's impact has been reconized multiple ways: Selected by TIME magazine as one of the world's 100 most influential companies for the second year in a row; Nubank was elected as the best bank in Brazil and Mexico, also as one of the world's best banks in Forbes ranking; Nubank's customers rated Nubank as the best customer service in the Reclame Aqui ranking for the sixth consecutive year. 
+
+    In 2022, Nubank launched Nu Institute, focused on empowering and promoting inclusion, encouraging initiatives in Brazilian slums through projects based on three core pillars: education for employability, entrepreneurship, and social innovation. 
+
+
 * __What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?__
+
+Core Metrics: Setting purpose, governance body composition, and material issues impacting stakeholders, anti-corruption, protected ethics advice and reporting mechanisms, integrating risk and opportunity into business process, greenhouse gas (GHG) emissions, and TCFD implemation.
+[0] = The company’s stated purpose, as the expression of the means by which a business proposes solu- tions to economic, environmental and social issues. Corporate purpose should create value for all stakeholders, including shareholders.
+    Source: The British Academy and Colin Mayer,
+    GRI 102-26, Embankment Project for Inclusive Capitalism (Epic) and others
+
+[1] = Composition of the highest governance body and its committees by: competencies relating to eco- nomic, environmental and social topics; executive or non-executive; independence; tenure on the governance body; number of each individual’s other significant positions and commitments, and the nature of the commitments; gender; membership of under-represented social groups; stakeholder representation.
+    Source: GRI 102-22, 405-1a, IR 4B
+    
+[2] = A list of the topics that are material to key stakeholders and the company, how the topics were identi- fied and how the stakeholders were engaged.
+    Source: GRI 102-21, 102-43, 102-47
+
+[3] = 1. Total percentage of governance body members, employees and business partners
+who have received training on the organization’s anti-corruption policies and procedures,
+broken down by region.
+    a) Total number and nature of incidents of corruption confirmed during the current year, but related to previous years; and
+    b) Total number and nature of incidents of corruption confirmed during the current year, related to this year.
+2. Discussion of initiatives and stakeholder engagement to improve the broader operating environ- ment and culture, in order to combat corruption.
+   Source: GRI 205-2, 205-3
+
+[4] = A description of internal and external mechanisms for:
+1. Seeking advice about ethical and lawful behaviour and organizational integrity; and
+2. Reporting concerns about unethical or unlawful behaviour and lack of organizational integrity.
+    Source: GRI 102-17
+
+[5] = Company risk factor and opportunity disclosures that clearly identify the principal material risks and opportunities facing the company specifically (as opposed to generic sector risks), the company appetite in respect of these risks, how these risks and opportunities have moved over time and the response to those changes. These opportunities and risks should integrate material economic, environmental and social issues, including climate change and data stewardship.
+    Source: EPIC, GRI 102-15, World Economic Forum Integrated Corporate Governance, IR 4D
+
+[6] = For all relevant greenhouse gases (e.g. carbon dioxide, methane, nitrous oxide, F-gases etc.), report in metric tonnes of carbon dioxide equivalent (tCO2e) GHG Protocol Scope 1 and Scope 2 emissions. Estimate and report material upstream and downstream (GHG Protocol Scope 3) emissions where appropriate.
+    Source: GRI 305:1-3, TCFD, GHG Protocol
+
+[7] = Fully implement the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD). If necessary, disclose a timeline of at most three years for full implementation. Disclose whether you have set, or have committed to set, GHG emissions targets that are in line with the goals of the Paris Agreement – to limit global warming to well below 2°C above preindustrial levels and pursue efforts to limit warming to 1.5°C – and to achieve net-zero emissions before 2050.
+    Source: Recommendations of the TCFD;
+    CDSB R01, R02, R03, R04 and R06;
+    SASB 110; Science Based Targets initiative
+
 
 * __How is your company performing relative to competitors in the same domain?__
 
@@ -86,3 +146,4 @@
 * https://markets.ft.com/data/equities/tearsheet/profile?s=NU:NYQ#:~:text=About%20the%20company,investing%2C%20borrowing%2C%20and%20protecting.
 * https://www.investidores.nu/en/reports-2/
 * https://investmentu.com/nu-holdings/
+* https://www.crunchbase.com/organization/nubank/company_financials

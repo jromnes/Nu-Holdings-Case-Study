@@ -124,16 +124,42 @@ broken down by region.
 
 * __How is your company performing relative to competitors in the same domain?__
 
+    Nubank's competitors can be separated into two types: Traditional banks and other fin-techs. Traditional banks hold the largest threat over Nubank maily due to the current market power that they have. The main traditional banking competitors: Caixa Economica (32% in 2017); Banco do Brasil (19%); Itau Unibanco (12%); Bradesco (10%); and Santander (9%). 
+
+    Caixa and Banco do Brasil are government controlled banks, there large consumer based is due to the majority of the Brazilian lower class that utilizing one of these bank. These are the basic banking options for a large portion of the population.
+
+    The latter 3 of the traditional bank competitors are private banks with strong brand morale due to being present for decades. These private banks have been exploring the innovative envirnment of digital banking since the start of the fintech revolution, making these private banks the most "direct" competitors of Nubank. 
+
+    Nubank became a huge success early into the rise of digital banking, which triggered the start up of many other fin-tech companies. There are three main fin-tech competitors that have had quick growth, making them worth mentioning as competitors: Digio, Neon, and Intermedium.
+
+    Digio: has smaller rotative fees than Nubank and doesnt have a queue to create the credit card, but proved to be less user friendly. Digio is similar to Nubank, with a few differences in the products offered, yet Digio suffered/is suffering from not being the first entrant in the market.
+
+    Neon: only offers debt services, there are no rotative fees due to no credit card. In order to compensate the lack of revenue stream, Neon charges uses for withdrawals and transfers between banks. 
+
+    Intermedium: Nubank's newest competitor; offers credit and debit services. Intermedium offers the lowest rotative fees, but lacks an extensive client base which delays it's growth.
+
 
 ## Recommendations
 
 * __If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)__
 
+    I would suggest expanding Nubank's rewards syetm by adding crypto as a redeemable reward. Similar to Coinbase's crypto rewards program with their debit cards. This would allow the user to convert points into different types of crypto, or potetially the crypto currency of the user's choosing. This would allow a new collaboration between the domains of digital banking and cryptocurrency.
+
 * __Why do you think that offering this product or service would benefit the company?__
+
+    I think the addition of a crypto rewards service would help bridge the gap between traditional currency and cryptocurrency through digital banking services. I also think that it would attract a larger portion of millenials as well as Gen Zs. This would largely be caused by the sharp peak of interest that the crypto and investing world has received from the younger generations. It would so possibly allow participation in the crypto market to be even more accessible. 
 
 * __What technologies would this additional product or service utilize?__
 
+    Blockchain technology would be necessary for the creation and use of a crypto rewards product. There would need to be a program that could determine how much crypto does a user gain per $ spent, which cryptos would be options for users to redeem, where the cryptocurrency will be sent from, where the cryptocurrency will be delivered(via blockchain technology). There will also need to be a program to avoid fradulent transactions and to assist with other security measures. 
+
+    Automation and artificial intelligence could also be helpful with the additon of a crypto rewards product. Automation can help reduce human intervention and allow for a more hands off program. Aritificial intelligence could smooth the transcaction process even more. 
+
 * __Why are these technologies appropriate for your solution?__
+
+    Blockchain technology is essential when dealing with cryptocurrency. The company would not be able to process any sort of cryptocurrency transaction without the use of blockchain technology. 
+
+    
 
 ## Addendum
 * https://www.fool.com/quote/nyse/nu/#quote-overview

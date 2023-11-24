@@ -8,7 +8,6 @@
 
     Nubank or Nu Holdings Ltd
     
-
 * __When was the company incorporated?__
 
     The company was founded on May 6th, 2013.
@@ -164,7 +163,7 @@
     -------
 
 ## Addendum
-* [logo] = https://images.app.goo.gl/mvunWYWrSXHjMTjV9 "Logo"
+* https://api.mziq.com/mzfilemanager/v2/d/59a081d2-0d63-4bb5-b786-4c07ae26bc74/51612b82-4bb9-896e-d9cd-dc96fc3fd881?origin=1 
 * https://www.fool.com/quote/nyse/nu/#quote-overview
 * https://www.nasdaq.com/market-activity/stocks/nu
 * https://finance.yahoo.com/quote/NU/holders?p=NU

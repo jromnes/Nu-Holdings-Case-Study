@@ -59,7 +59,7 @@
     
     Through the acquisition of Cognitect, a leading software consultancy firm, Nubank was able to expand it's technological capabilities. Nubank can now advance it's systems for reliability, scalability, and modularity. 
 
-    Nubank relies on statues like adaptability, immutability, functional programming, modularization, CI/CD to foster quick and reliable maintenence to it's systems. 
+    Nubank has gained access to multiple types of technologies through the acquisition of multiple companies like Cognitect and Olivia. Some technologies that Nubank utilizes include: AWS, automation and AI, Clojure, Datomic, Java, Looker, Splunk, Databricks, functionl programming, modularization, and CI/CD. These technologies are utilized to make Nubanks user experience smooth and simple. A lot of technologies that Nubank uses are essential to keeping their system and programs up to date with the lastest innovations.
 
 
 ## Landscape
@@ -92,7 +92,11 @@
    
     • At the end of 2022 nubank reached 2.5 million small business owners and simplified savings for more than 4 million customers through their product Monay Boxes. (Money boxes is a product that allows customers to save money in an organized way to help achieve their dreams and build their future). 
     
-    • __Nubank's impact has been reconized multiple ways__: Selected by TIME magazine as one of the world's 100 most influential companies for the second year in a row; Nubank was elected as the best bank in Brazil and Mexico, also as one of the world's best banks in Forbes ranking; Nubank's customers rated Nubank as the best customer service in the Reclame Aqui ranking for the sixth consecutive year. 
+    • __Nubank's impact has been reconized multiple ways__: 
+    • Selected by TIME magazine as one of the world's 100 most influential companies for the second year in a row
+    • Nubank was elected as the best bank in Brazil and Mexico
+    • Recognized as one of the world's best banks in Forbes ranking
+    • Nubank's customers rated Nubank as the best customer service in the Reclame Aqui ranking for the sixth consecutive year. 
 
     In 2022, Nubank launched Nu Institute, focused on empowering and promoting inclusion, encouraging initiatives in Brazilian slums through projects based on three core pillars: education for employability, entrepreneurship, and social innovation. 
 -------
@@ -175,3 +179,5 @@
 * https://www.investidores.nu/en/reports-2/
 * https://investmentu.com/nu-holdings/
 * https://www.crunchbase.com/organization/nubank/company_financials
+* https://www.linkedin.com/jobs/nubank-jobs-worldwide?f_C=3767529&trk=top-card_top-card-primary-button-top-card-primary-cta&currentJobId=3759641609&position=14&pageNum=0 
+
